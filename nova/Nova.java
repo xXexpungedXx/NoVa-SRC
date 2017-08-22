@@ -1,29 +1,3 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Marketplace
-    Gist
-
-    @jacksarriot
-
-1
-1
-
-    0
-
-KurtisAD/NoVa-SRC
-Code
-Issues 33
-Pull requests 0
-Projects 0
-Wiki
-NoVa-SRC/nova/Nova.java
-99c92d1 on May 23
-@KurtisAD KurtisAD Updated to Optifine B7
-201 lines (169 sloc) 6.11 KB
 package nova;
 
 import net.minecraft.client.Minecraft;
@@ -224,18 +198,3 @@ public class Nova {
 
 
 }
-
-    © 2017 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
-
