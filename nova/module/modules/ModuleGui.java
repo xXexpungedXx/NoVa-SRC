@@ -104,7 +104,6 @@ public class ModuleGui extends ModuleBase {
         }
     }
 
-
     @EventHandler
     public void onRenderOverlay(RenderOverlayEvent e)
     {
@@ -149,6 +148,7 @@ public class ModuleGui extends ModuleBase {
     {
         int position = 12;
         for (ModuleBase m : Nova.getModules()) {
+            
             if(m.isEnabled && m.showEnabled) {
                 mc.fontRendererObj.drawStringWithShadow("> " + Util.capitalize(m.name) + " " + m.getMetadata(), 2, position, this.guiColor);
                 position += 10;
