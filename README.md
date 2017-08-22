@@ -1,2 +1,2 @@
 # NoVa-SRC
-forked
+Hacked client for Minecraft
