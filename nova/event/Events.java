@@ -1,4 +1,3 @@
-
 package nova.event;
 
 import nova.Nova;
